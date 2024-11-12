@@ -1,4 +1,4 @@
-# Food Ordering Web App (MERN Stack)
+# Food Ordering App Using (MERN Stack)
 
 ## Table of Contents
 - [Introduction](#introduction)
